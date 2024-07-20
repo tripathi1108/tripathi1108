@@ -76,10 +76,10 @@
 
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
-  <a href="https://www.codechef.com/users/sandeep0209" target="_blank">
+  <a href="https://www.codechef.com/users/tripathi_21" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
   </a>
-  <a href="https://codeforces.com/profile/sandeep_680" target="_blank">
+  <a href="https://codeforces.com/profile/tripathiharsh1102" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
 </p>  
@@ -87,7 +87,7 @@
 ---
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
-  <a  href = "www.linkedin.com/in/harsh-pati-tripathi-91641b19b" target = "_blank"> 
+  <a  href = "[www.linkedin.com/in/harsh-pati-tripathi-91641b19b](https://www.linkedin.com/in/harsh-pati-tripathi-91641b19b/)" target = "_blank"> 
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-abhishek-srivastava" />
   </a>
   <a href = "mailto:harsh3321211@gmail.com" target = "_blank">
